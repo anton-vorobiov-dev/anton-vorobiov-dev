@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Anton Vorobiov - Frontend Developer. 
-- [PORTFOLIO]([https://www.linkedin.com/in/%F0%9F%87%BA%F0%9F%87%A6-anton-vorobiov-%F0%9F%87%BA%F0%9F%87%A6-b72402106/](https://portfolio-nextjs-mauve-theta.vercel.app/))
+- [link]([https://www.linkedin.com/in/%F0%9F%87%BA%F0%9F%87%A6-anton-vorobiov-%F0%9F%87%BA%F0%9F%87%A6-b72402106/](https://portfolio-nextjs-mauve-theta.vercel.app/))
 - 👀 I’m interested in fronted developing on **Vue.js** and **Nuxt.js**.
 - 🌱 I’m currently learning more about those technologies.
 - 💞️ I’m looking for a full-time position.
