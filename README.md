@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Anton Vorobiov - Front-end Developer. 
+## 👋 Hi, I’m Anton Vorobiov - Senior Front-end Developer. 
 - [Portfolio](https://portfolio-nextjs-mauve-theta.vercel.app/)
 - 👀 I’m interested in frontend developing on **Vue.js** and **Nuxt.js**.
 - 💞️ I’m looking for a full-time position.
